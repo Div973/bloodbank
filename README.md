@@ -46,9 +46,10 @@ Below are some screenshots of the Blood Bank Website:
    ```bash
    git clone https://github.com/yourusername/blood-bank-website.git
 
+2. Navigate to the project directory:
+    ```bash
+   cd blood-bank-website
 
-Navigate to the project directory:
-cd blood-bank-website
 
 🙋‍♂️ Author
 Divyanshu Jha

@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Blood Bank Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web-based Blood Bank management system designed to streamline the process of blood donation, request, and inventory management. The platform facilitates interactions between donors, hospitals, and blood bank administrators to ensure timely access to life-saving blood.
 
-## Available Scripts
+## 🩸 Project Overview
 
-In the project directory, you can run:
+The Blood Bank Website offers features such as:
 
-### `npm start`
+- Donor registration and login
+- Blood request submission
+- Real-time blood inventory tracking
+- Admin panel for managing requests and users
+- Clean and responsive user interface
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📷 Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Below are some screenshots of the Blood Bank Website:
+![IMG-20250501-WA0010 - Copy](https://github.com/user-attachments/assets/f61f1a36-9759-4f99-ade9-f98349f5362f)
 
-### `npm test`
+![IMG-20250501-WA0010](https://github.com/user-attachments/assets/2226acb5-9e4c-470e-bff4-f384cb55c737)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![IMG-20250501-WA0011](https://github.com/user-attachments/assets/f3e5b26b-ac54-4a24-b08c-a725f0e8a428)
 
-### `npm run build`
+![IMG-20250501-WA0002](https://github.com/user-attachments/assets/c47e2fab-4e8a-4d53-b4d0-0b970f595d29)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![IMG-20250501-WA0003](https://github.com/user-attachments/assets/603b12a0-1149-4ff1-b21c-9f7bc7c54874)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![IMG-20250501-WA0009](https://github.com/user-attachments/assets/eb362209-fead-4d0a-8464-ce9530ef155d)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![IMG-20250501-WA0006](https://github.com/user-attachments/assets/d08bfd83-148d-4894-8c2e-54f49beee8bd)
 
-### `npm run eject`
+![IMG-20250501-WA0007](https://github.com/user-attachments/assets/9a222ee0-4af2-41d8-945b-3311c89dc46a)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> Make sure the `images/` directory is present in the repo with the corresponding images.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Technologies Used
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Frontend:** ReactJS
+- **Backend:** Node.js (specify which one you're using)
+- **Database:** MySQL
 
-## Learn More
+## 🚀 Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/blood-bank-website.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+Navigate to the project directory:
+cd blood-bank-website
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🙋‍♂️ Author
+Divyanshu Jha
+Email: divyanshujha973@gmail.com
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📄 License
+This project is licensed under the MIT License.
